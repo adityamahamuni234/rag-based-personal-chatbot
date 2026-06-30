@@ -1,0 +1,23 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.sqlite3
+*.log
+.vscode/
+.DS_Store
+.idea/
+coverage/
+htmlcov/
+.pytest_cache/
+
+# Python version manager
+.python-version
+
+# Local notebook checkpoints
+iPython_checkpoints/
+.ipynb_checkpoints/
+backend/db/ 
+
